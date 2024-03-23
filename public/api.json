@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "date": "2024-04-01",
+    "startTime": "19:30:00",
+    "language": "inglise",
+    "movie": {
+      "id": 2,
+      "title": "Saltburn",
+      "duration": 2.11,
+      "genre": "Draama",
+      "ageLimit": "R",
+      "picture": "http://localhost:8080/saltburn.jpg"
+    },
+    "hall": {
+      "id": 1,
+      "name": "Täheke",
+      "seatsNumber": 135,
+      "seats": []
+    }
+  },
+  {
+    "id": 2,
+    "date": "2024-04-02",
+    "startTime": "17:30:00",
+    "language": "inglise",
+    "movie": {
+      "id": 3,
+      "title": "Oppenheimer",
+      "duration": 3.0,
+      "genre": "Biograafia",
+      "ageLimit": "R",
+      "picture": "http://localhost:8080/oppenheimer.jpg"
+    },
+    "hall": {
+      "id": 1,
+      "name": "Täheke",
+      "seatsNumber": 135,
+      "seats": []
+    }
+  }
+]
